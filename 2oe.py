@@ -2,8 +2,8 @@
 a=int(input())
 mod=a%2
 if (mod>0 and a>0):
-  print("Odd")
+	print("Odd")
 elif(mod==0):
-  print("Even")
+	print("Even")
 else:
 	print("invalid")
