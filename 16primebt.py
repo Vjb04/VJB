@@ -1,5 +1,4 @@
-#PRIME
-
+#prIME
 n,q=input().split()
 n=int(n)
 q=int(q)
@@ -11,3 +10,4 @@ for num in range(n+1,q):
 	else:
 		list.append(num)
 print(" ".join(map(str,list)))
+#PRime
